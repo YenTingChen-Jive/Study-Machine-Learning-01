@@ -2,6 +2,11 @@
 Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition
 
 ## Overview
+* Use Scikit-learn to track an example ML project end to end
+* Explore several models, including support vector machines, decision trees, random forests, and ensemble methods
+* Exploit unsupervised learning techniques such as dimensionality reduction, clustering, and anomaly detection
+* Dive into neural net architectures, including convolutional nets, recurrent nets, generative adversarial networks, autoencoders, diffusion models, and transformers
+* Use TensorFlow and Keras to build and train neural nets for computer vision, natural language processing, generative models, and deep reinforcement learning
 
 ## Chapters
 1. The Machine Learning Landscape
