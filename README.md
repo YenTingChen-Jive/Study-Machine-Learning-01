@@ -1,5 +1,2 @@
 # Machine Learning Study 01
-
-## Reference Book: 
-
-## Local Section:
+# Hands-on Machine Learning with Scikit-Learn, Keras, and TensorFlow, 3rd Edition
